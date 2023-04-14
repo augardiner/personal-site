@@ -1,0 +1,22 @@
+baseURL = 'https://www.alex-gardiner.com/'
+languageCode = 'en-us'
+title = 'AG'
+
+[params]
+	mode="toggle"
+	# subtitle=" "
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/augardiner"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/augardiner/"
+
+[[menu.main]]
+name = "Home"
+url = "/home"
+weight = 1
