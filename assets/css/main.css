@@ -372,3 +372,7 @@ table td{
 main {
   flex: 1;
 }
+
+#resume {
+  border-bottom: none;
+}
