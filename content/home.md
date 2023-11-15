@@ -8,7 +8,7 @@ author = "Alex Gardiner"
 - In addition to professional pursuits, I'm a venturesome individual with lots of interests, including sports and music. In my free time, I love to play guitar, watch to live music, and go skiing or diving with friends
 
 # Experience
-- **2022-20\*\***&emsp;> **Markforged**&emsp;*Data Systems Engineer*
+- **2022-2023**&emsp;> **Markforged**&emsp;*Senior Data Systems Engineer*
 - **2018-2022**&emsp;> **Markforged**&emsp;*Support Engineer*
 - **2016-2018**&emsp;> **Folsom Custom Skis**&emsp;*Production Engineer*
 - **2012-20\*\***&emsp;> **Charles Riverboat Co**&emsp;*Ship Captain (P/T)*
@@ -21,6 +21,7 @@ author = "Alex Gardiner"
 - **Nontechnical**&emsp;> Customer Service, Writing, Presentation, Graphic Design
 
 # Projects
-- **[Prints Albert](http://prints-albert.alex-gardiner.com/)&emsp;**> A REST API for managing a virtual part library and 3D printer
-- **[Hot Stuff](http://hot-stuff.alex-gardiner.com/)&emsp;**> API & Frontend Application Visualizing Popular Music Trends
+- **[Hot Stuff](http://hot-stuff.alex-gardiner.com/)&emsp;**> A data-oriented app that visualizes popular music trends (Flask and React)
+- **[Click](http://click.alex-gardiner.com/)&emsp;**> An app for musicians that visualizes progress w/ a built-in Metronome (Flask, Typescript, and React)
+- **[Prints Albert](http://prints-albert.alex-gardiner.com/)&emsp;**> A virtual 3D Printer that prints “parts” from a user-managed library (Express.js, Javascript, HTML)
 - **[Nautilum](https://github.com/augardiner/nautiLum/)&emsp;**> Bring your nautical chart to life
